@@ -24,10 +24,10 @@ WebUI.openBrowser('')
 
 for(def rowIdx = 0; rowIdx < 50; rowIdx++) {
 	WebUI.navigateToUrl('http://dl.58.com/shangbiaozhli/30729845309119x.shtml?psid=142589358199250552531158959&entinfo=30729845309119_j&slot=-1&iuType=j_2&PGTID=0d302162-0009-3400-6882-1633f5e69e36&ClickID=1')
-	WebUI.navigateToUrl('http://dl.58.com/shangbiaozhli/33298956032065x.shtml?psid=122356584199257696400020744&entinfo=33298956032065_p&slot=-1&iuType=p_2&PGTID=0d302162-0009-3708-2d98-edff282325ab&ClickID=1')
-	WebUI.navigateToUrl('http://dl.58.com/shangbiaozhli/33297528580417x.shtml?psid=122356584199257696400020744&entinfo=33297528580417_p&slot=-1&iuType=p_2&PGTID=0d302162-0009-3708-2d98-edff282325ab&ClickID=3')
-	WebUI.navigateToUrl('http://dl.58.com/shangbiaozhli/33296699772204x.shtml?psid=122356584199257696400020744&entinfo=33296699772204_p&slot=-1&iuType=p_2&PGTID=0d302162-0009-3708-2d98-edff282325ab&ClickID=5')
-	WebUI.navigateToUrl('http://dl.58.com/shangbiaozhli/33288332591279x.shtml?psid=122356584199257696400020744&entinfo=33288332591279_p&slot=-1&iuType=p_2&PGTID=0d302162-0009-3708-2d98-edff282325ab&ClickID=7')
+	//WebUI.navigateToUrl('http://dl.58.com/shangbiaozhli/33298956032065x.shtml?psid=122356584199257696400020744&entinfo=33298956032065_p&slot=-1&iuType=p_2&PGTID=0d302162-0009-3708-2d98-edff282325ab&ClickID=1')
+	//WebUI.navigateToUrl('http://dl.58.com/shangbiaozhli/33297528580417x.shtml?psid=122356584199257696400020744&entinfo=33297528580417_p&slot=-1&iuType=p_2&PGTID=0d302162-0009-3708-2d98-edff282325ab&ClickID=3')
+	//WebUI.navigateToUrl('http://dl.58.com/shangbiaozhli/33296699772204x.shtml?psid=122356584199257696400020744&entinfo=33296699772204_p&slot=-1&iuType=p_2&PGTID=0d302162-0009-3708-2d98-edff282325ab&ClickID=5')
+	//WebUI.navigateToUrl('http://dl.58.com/shangbiaozhli/33288332591279x.shtml?psid=122356584199257696400020744&entinfo=33288332591279_p&slot=-1&iuType=p_2&PGTID=0d302162-0009-3708-2d98-edff282325ab&ClickID=7')
 }
 
 WebUI.closeBrowser()
